@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+*.pth
+*.pkl
+restart_button.png
+debug_view.png
+# Keep results and logs, but ignore binary checkpoints
+# If you want to track a specific model, comment out the line below
+dino_dqn.pth
